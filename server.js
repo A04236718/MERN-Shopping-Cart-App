@@ -1,6 +1,3 @@
-mongodb+srv://muhammad:<password>@mern-shopping-jsaql.gcp.mongodb.net/test?retryWrites=true&w=majority
-
-
 const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
